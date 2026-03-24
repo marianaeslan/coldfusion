@@ -14,7 +14,7 @@
     <nav style="background: #eee; padding: 10px; margin-bottom: 20px;">
         <strong>Meus Estudos:</strong>
         <a href="index.cfm">Cheatsheet</a> |
-        <a href="exercicio1.cfm">Exercício</a> |
+        <a href="ex1/exercicio1.cfm">Exercício</a> |
 
     </nav>
     <h1>O Guia Definitivo: ColdFusion</h1>
