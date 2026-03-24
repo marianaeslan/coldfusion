@@ -1,0 +1,37 @@
+# =========================
+# 1. JetBrains / IntelliJ IDEA
+# =========================
+
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# 2. CommandBox / Servidor
+# =========================
+
+box_modules/
+
+WEB-INF/
+
+
+*.log
+logs/
+server.out.txt
+
+# =========================
+# 3. Adobe ColdFusion
+# =========================
+
+*.class
+cfclasses/
+
+# =========================
+# 4. macOS
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
