@@ -13,8 +13,13 @@
 <body>
     <nav style="background: #eee; padding: 10px; margin-bottom: 20px;">
         <strong>Meus Estudos:</strong>
-        <a href="index.cfm">Cheatsheet</a> |
-        <a href="ex1/exercicio1.cfm">Exercício</a> |
+        <a href="index.cfm">Cheatsheet |</a>
+        <a href="ex1/exercicio1.cfm">Exercício 1 |</a>
+        <a href="ex2/view/calculadoraView.cfm">Exercicio 2 |</a>
+        <a href="ex3/ex3.cfm">Exercicio 3 |</a>
+        <a href="ex4/testeValidador.cfm">Exercicio 4 |</a>
+        <a href="ex5/ex5.cfm">Exercicio 5 |</a>
+        <a href="ex6/testeLeitor.cfm">Exercicio 6 </a>
 
     </nav>
     <h1>O Guia Definitivo: ColdFusion</h1>
